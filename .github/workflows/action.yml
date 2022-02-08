@@ -32,7 +32,7 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN4
             pushplus_token: PUSHPLUS_TOKEN4
             serverchan_key: SERVERCHAN_KEY4
-          - #username: ZJU_USERNAME5 #nihuwei
+          #- username: ZJU_USERNAME5 #nihuwei
             #password: ZJU_PASSWORD5
             #dingtalk_token: DINGTALK_TOKEN5
             #pushplus_token: PUSHPLUS_TOKEN5
