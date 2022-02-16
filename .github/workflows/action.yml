@@ -12,11 +12,6 @@ jobs:
       fail-fast: true
       matrix:
         include:
-          - username: ZJU_USERNAME_wei #fengzhe
-            password: ZJU_PASSWORD_wei
-            dingtalk_token: DINGTALK_TOKEN2
-            pushplus_token: PUSHPLUS_TOKEN2
-            serverchan_key: SERVERCHAN_KEY2
           - username: ZJU_USERNAME_wen #chenrunze
             password: ZJU_PASSWORD_wen
             dingtalk_token: DINGTALK_TOKEN3
